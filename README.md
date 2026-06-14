@@ -80,7 +80,20 @@ The project uses a Convolutional Neural Network (CNN) consisting of:
 | Classes             | 10 (0–9) |
 
 ---
+## 📸 Screenshots
 
+Home Page
+<img width="1918" height="842" alt="Screenshot 2026-06-14 082720" src="https://github.com/user-attachments/assets/fb259e5f-1045-4e79-8b99-aaa85507329c" />
+
+Prediction Result
+<img width="1918" height="862" alt="Screenshot 2026-06-14 082732" src="https://github.com/user-attachments/assets/684f63bb-5db2-4289-98ea-a2b163a4058a" />
+
+---
+## 🎥 Demo Video
+Watch the project demonstration here:
+https://drive.google.com/file/d/1sSY5oYyQjvmCgHUNWpAq0fPNsm2x7s7W/view?usp=sharing
+
+---
 ## 📂 Project Structure
 
 ```text
